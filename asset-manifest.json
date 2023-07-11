@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usepopcorn-app-react/static/css/main.7d1c186b.css",
+    "main.js": "/usepopcorn-app-react/static/js/main.b7440763.js",
+    "index.html": "/usepopcorn-app-react/index.html",
+    "main.7d1c186b.css.map": "/usepopcorn-app-react/static/css/main.7d1c186b.css.map",
+    "main.b7440763.js.map": "/usepopcorn-app-react/static/js/main.b7440763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d1c186b.css",
+    "static/js/main.b7440763.js"
+  ]
+}
